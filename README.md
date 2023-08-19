@@ -6,33 +6,38 @@
 <br>
 <br>
 
-<ul style="list-style:none;">
-    <img width="100px" height="30px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-</ul>
+<span><img width="100px" height="30px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span><img width="100px" height="30px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white " /></span>
+<span><img width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " />
+</span><span><img width="100px" height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</span>
+<span><img width="100px" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</span>
+<span><img width="100px" height="30px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "/></span>
+<span><img width="100px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " /></span>
+  
+  
+    
 
-<ul>
-    <img width="100px" height="30px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white " />
-</ul>
 
-<ul>
-    <img width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " />
-</ul>
+  
 
-<ul>
-    <img width="100px" height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white   " />
-</ul>
 
-<ul>
-    <img width="100px" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB " />
-</ul>
 
-<ul>
-    <img width="100px" height="30px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white " />
-</ul>
+   
 
-<ul>
-    <img width="100px" height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " />
-</ul>
+
+
+ 
+
+
+
+
+   
+
+
+
+
 
 <br>
 
