@@ -1,11 +1,9 @@
-### Hi there :family:
-<h2>*{Eu sou washington fagundes, Sou um programador Front End};</h2>
+### :family:
+<h2>*{Eu sou washington fagundes, Sou um estudante de engenharia de software.};</h2>
 
 <h2>*{Os meus conhecimentos incluem.};</h2>
 
 <br>
-<br>
-
 <span><img width="100px" height="30px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></span>
 <span><img width="100px" height="30px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white " /></span>
 <span><img width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " />
@@ -21,35 +19,10 @@
 <span><img width="100px" height="30px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
   
   
-    
-
-
-  
-
-
-
-   
-
-
-
- 
-
-
-
-
-   
-
-
-
-
-
 <br>
 
- [![washington stats](https://github-readme-stats.vercel.app/api?username=wsaraujo23)](https://github.com/anuraghazra/github-readme-stats)
- 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsaraujo23)](https://github.com/anuraghazra/github-readme-stats)
+ ![washington GitHub ](https://github-readme-stats.vercel.app/api?username=wsaraujo23&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsaraujo23&layout=compact&theme=dark)
 
 <h2 style="color: red;">Minhas redes sociais.</h2>
 <br>
