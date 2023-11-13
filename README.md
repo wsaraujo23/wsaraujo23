@@ -1,5 +1,5 @@
 ### :family:
-<h2>*{Eu sou washington fagundes, Sou um estudante de engenharia de software.};</h2>
+<h2>Eu sou washington fagundes</h2>
 
 <h2>*{Os meus conhecimentos incluem.};</h2>
 
